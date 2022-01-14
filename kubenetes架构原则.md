@@ -36,7 +36,7 @@ Borg的服务发现通过BNS（Borg Name Service）来实现的
 
 ##### Borg架构
 
-![borg](/Users/menglingfeng/Documents/GitHub/k8s.github.io/borg.png)
+![borg](https://github.com/RTCFoundation/k8s.github.io/blob/main/images/borg.png)
 
 borg master主进程：
 
@@ -99,7 +99,7 @@ kubernetes的所有管理能力构建在对象抽象的基础上，核心对象�
 
 ##### kubernetes架构
 
-![k8s](/Users/menglingfeng/Documents/GitHub/k8s.github.io/k8s.png)
+![k8s](https://github.com/RTCFoundation/k8s.github.io/blob/main/images/k8s.png)
 
 k8s Master node
 
